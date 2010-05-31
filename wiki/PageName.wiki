@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary 기본 구성
 
 = Introduction =
 
@@ -10,7 +10,6 @@ MMX decoding은 일본의 MIYASAKA Masaru의 것을 이용.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1. 기본 Class
+
+2. 기본 UI
