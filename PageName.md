@@ -1,0 +1,13 @@
+# Introduction #
+
+Zip안에 압축되어 있는 JPEG Image파일을 MMX를 이용하여
+빠르게 Decoding한후에 DirectX를 이용하여 Scaling을 하여 표시한다.
+
+MMX decoding은 일본의 MIYASAKA Masaru의 것을 이용.
+
+
+# Details #
+
+1. 기본 Class
+
+2. 기본 UI
